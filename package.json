@@ -1,0 +1,19 @@
+{
+  "name": "vshablon",
+  "version": "1.0.0",
+  "description": "My Landing`s shablon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v02m/vShablon.git"
+  },
+  "author": "votum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v02m/vShablon/issues"
+  },
+  "homepage": "https://github.com/v02m/vShablon#readme"
+}
